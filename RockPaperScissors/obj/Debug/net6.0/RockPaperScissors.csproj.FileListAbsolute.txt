@@ -1,0 +1,15 @@
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+C:\C# - Учеба\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
